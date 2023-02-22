@@ -7,3 +7,5 @@ if(bag==str){
 console.log("palindrome");
 }else{
 console.log("not palindrome");
+
+
